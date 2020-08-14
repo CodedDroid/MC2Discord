@@ -1,0 +1,11 @@
+#You should create a bot in Discord and add it to your Discord Server with the permissions of: reading and writing messages (or just give all the perms to simplify)
+DISCORD_BOT_TOKEN: 'your123.token.999'
+
+#You should create a webhook, go to the channel do you want to use and go to config, then integrations, webhooks and click on New Webhook and click on Copy Webhook URL
+WEBHOOK_URL: 'https://discordapp.com/api/webhooks/123123123123123123/weBho0K_uRL'
+
+#This is the channel that your bot will read (but not write, to do that we use the webhook)
+CHANNEL_ID: '123123123123123123'
+
+#This is the picture that the webhook will have when an advancement is made
+GG_IMAGE: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/GG_Train_%281979-1985%29.svg/1200px-GG_Train_%281979-1985%29.svg.png'

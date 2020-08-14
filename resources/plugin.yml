@@ -1,0 +1,5 @@
+name: MC2Discord
+version: ${project.version}
+main: me.techiepi.mc2discord.Main
+api-version: 1.16
+authors: [TechiePi]
